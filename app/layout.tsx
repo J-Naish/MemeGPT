@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "MemeGPT",
-  description: "Local ChatGPT of LLC, Meme",
+  description: "ChatGPT of LLC, Meme",
   icons: {
     icon: "/logo.png",
   },
